@@ -1,0 +1,11 @@
+{"AppHomeDir":"/home/vvm/ReportManager/",
+ "ReportsHomeDir":"/home/vvm/ReportManager/Reports/",
+ "ReportsNetDir":"/home/vvm/Soft/Reports/",
+ "ReportsResultDir":"/home/vvm/ReportManager/Documents/",
+ "ConfigInfoDB":"jdbc:mysql://localhost:3306/enterprise",
+ "HostDB":"ICE9",
+ "ConfigFile":"/home/vvm/ReportManager/Config.json"
+}
+
+
+
